@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD
+http://akamaizedx.com:80/davimusse/dmfl21/6283
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHDᴮᴿ
+http://akamaizedx.com:80/davimusse/dmfl21/10047306
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054706
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD¹" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD¹
+http://akamaizedx.com:80/davimusse/dmfl21/10035331
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD H265" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD H265
+http://akamaizedx.com:80/davimusse/dmfl21/17298
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD
+http://akamaizedx.com:80/davimusse/dmfl21/2821
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HDᴮᴿ
+http://akamaizedx.com:80/davimusse/dmfl21/10047305
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054705
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD°" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD°
+http://akamaizedx.com:80/davimusse/dmfl21/10035332
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD
+http://akamaizedx.com:80/davimusse/dmfl21/4913
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054704
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SDᴮᴿ
+http://akamaizedx.com:80/davimusse/dmfl21/10047304
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD
+http://akamaizedx.com:80/davimusse/dmfl21/5789
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054724
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD H265" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD H265
+http://akamaizedx.com:80/davimusse/dmfl21/17299
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD
+http://akamaizedx.com:80/davimusse/dmfl21/345
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054723
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HDᴮᴿ" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HDᴮᴿ
+http://akamaizedx.com:80/davimusse/dmfl21/2823
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD
+http://akamaizedx.com:80/davimusse/dmfl21/4860
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054722
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD
+http://akamaizedx.com:80/davimusse/dmfl21/4801
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054758
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD H265" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD H265
+http://akamaizedx.com:80/davimusse/dmfl21/10027000
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD
+http://akamaizedx.com:80/davimusse/dmfl21/5556
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054757
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD²" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD²
+http://akamaizedx.com:80/davimusse/dmfl21/7171
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD
+http://akamaizedx.com:80/davimusse/dmfl21/341
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054756
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA FHD
+http://akamaizedx.com:80/davimusse/dmfl21/9598
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054791
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD
+http://akamaizedx.com:80/davimusse/dmfl21/4893
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054790
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD²" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD²
+http://akamaizedx.com:80/davimusse/dmfl21/6555
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD
+http://akamaizedx.com:80/davimusse/dmfl21/2829
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054789
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD
+http://akamaizedx.com:80/davimusse/dmfl21/5407
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054751
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD H265" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD H265
+http://akamaizedx.com:80/davimusse/dmfl21/17275
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD
+http://akamaizedx.com:80/davimusse/dmfl21/5292
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054750
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD
+http://akamaizedx.com:80/davimusse/dmfl21/5782
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054749
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS FHD
+http://akamaizedx.com:80/davimusse/dmfl21/9597
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS FHD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054788
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS H265" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS H265
+http://akamaizedx.com:80/davimusse/dmfl21/10027001
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD
+http://akamaizedx.com:80/davimusse/dmfl21/5595
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054787
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD²" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD²
+http://akamaizedx.com:80/davimusse/dmfl21/9002
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD
+http://akamaizedx.com:80/davimusse/dmfl21/4864
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054786
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO FHD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO FHD
+http://akamaizedx.com:80/davimusse/dmfl21/9824
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO FHD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054782
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO FHD H265" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO FHD H265
+http://akamaizedx.com:80/davimusse/dmfl21/17273
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO HD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO HD
+http://akamaizedx.com:80/davimusse/dmfl21/6558
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO HD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054781
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054780
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD
+http://akamaizedx.com:80/davimusse/dmfl21/4863
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS FHD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS FHD
+http://akamaizedx.com:80/davimusse/dmfl21/10050089
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS FHD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS FHD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054785
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS HD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS HD
+http://akamaizedx.com:80/davimusse/dmfl21/10050088
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS HD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS HD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054784
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD
+http://akamaizedx.com:80/davimusse/dmfl21/5549
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD*
+http://akamaizedx.com:80/davimusse/dmfl21/10054783
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV ARARAQUARA SD" tvg-logo="https://i.imgur.com/GzUN9fv.png" group-title="GLOBOS",GB EPTV ARARAQUARA SD
+http://akamaizedx.com:
